@@ -1,1 +1,5 @@
 HC-SR04
+SRF10 Ultrasonic Sensor
+SRF02 (use this stuff)
+
+both are similar but gpt said srf10 because it's I2C and it said HC-SR04 isn't
